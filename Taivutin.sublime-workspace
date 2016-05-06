@@ -1,0 +1,1202 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"com",
+				"component"
+			],
+			[
+				"compo",
+				"component"
+			],
+			[
+				"ra",
+				"radar"
+			],
+			[
+				"RAdar",
+				"Radar_Abstractor"
+			],
+			[
+				"nam",
+				"name"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"task",
+				"task_data"
+			],
+			[
+				"rada",
+				"radar_properties"
+			],
+			[
+				"rad",
+				"radar_URI"
+			],
+			[
+				"radar_li",
+				"radar_link"
+			],
+			[
+				"radar",
+				"radar_URL"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"par",
+				"parsed_response"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"radar_",
+				"radar_count"
+			],
+			[
+				"JS",
+				"JSON"
+			],
+			[
+				"proj",
+				"project_name"
+			],
+			[
+				"upda",
+				"updateRadarList"
+			],
+			[
+				"tas",
+				"task_count"
+			],
+			[
+				"tak",
+				"task_list"
+			],
+			[
+				"ta",
+				"tasks_to_create"
+			],
+			[
+				"taks",
+				"tasks_to_create"
+			],
+			[
+				"mo",
+				"mock_radar_creation_delay"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"chck",
+				"checkbox"
+			],
+			[
+				"mouse",
+				"mouseup"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"title",
+				"task_title"
+			],
+			[
+				"fcs",
+				"fcs_date"
+			],
+			[
+				"mi",
+				"milestone"
+			],
+			[
+				"js",
+				"js_here"
+			],
+			[
+				"n",
+				"nth-child"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bo",
+				"border-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"ht",
+				"html_safe"
+			],
+			[
+				"task_",
+				"task_type"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"He",
+				"Helvetica"
+			],
+			[
+				"el",
+				"elsif	elsif ..."
+			],
+			[
+				"threa",
+				"thread_id"
+			],
+			[
+				"follo",
+				"follower_count"
+			],
+			[
+				"use",
+				"user_name"
+			],
+			[
+				"post",
+				"post_count"
+			],
+			[
+				"border-r",
+				"border-bottom-right-radius"
+			],
+			[
+				"vi",
+				"viewed_user"
+			],
+			[
+				"user",
+				"user_name"
+			],
+			[
+				"txt",
+				"text-decoration"
+			],
+			[
+				"T",
+				"Temp_User"
+			],
+			[
+				"pat",
+				"partial"
+			],
+			[
+				"search",
+				"search_string"
+			],
+			[
+				"ha",
+				"hashtags"
+			],
+			[
+				"Hel",
+				"HelveticaNeue-Light"
+			],
+			[
+				"H",
+				"HelveticaNeue-Light"
+			],
+			[
+				"fn",
+				"font-size"
+			],
+			[
+				"se",
+				"search_string"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"redi",
+				"redirect_to"
+			],
+			[
+				"thread",
+				"thread"
+			],
+			[
+				"thre",
+				"thread"
+			],
+			[
+				"actio",
+				"action"
+			],
+			[
+				"us",
+				"user_session"
+			],
+			[
+				"sea",
+				"search_field_char_count"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"att",
+				"attr"
+			],
+			[
+				"key",
+				"keyup"
+			],
+			[
+				"respon",
+				"response_message"
+			],
+			[
+				"curre",
+				"current_view"
+			],
+			[
+				"curr",
+				"current_view"
+			],
+			[
+				"cu",
+				"current_view"
+			],
+			[
+				"view",
+				"views_hash"
+			],
+			[
+				"vew",
+				"views_hash"
+			],
+			[
+				"Json",
+				"JSON"
+			],
+			[
+				"crea",
+				"create_views_to_cookie"
+			],
+			[
+				"load",
+				"load_more_clicked"
+			],
+			[
+				"Ra",
+				"RAILS_ENV"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"currn",
+				"current_view"
+			],
+			[
+				"sta",
+				"starred"
+			],
+			[
+				"po",
+				"post_count"
+			],
+			[
+				"ses",
+				"session_post_count"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"char",
+				"char_count"
+			],
+			[
+				"mes",
+				"message_field"
+			],
+			[
+				"reply",
+				"reply_to_post"
+			],
+			[
+				"rep",
+				"reply_to"
+			],
+			[
+				"Post",
+				"PostThread"
+			],
+			[
+				"un",
+				"unless	unless … end"
+			],
+			[
+				"pos",
+				"post_id"
+			],
+			[
+				"show",
+				"show_reply"
+			],
+			[
+				"posts",
+				"posts"
+			],
+			[
+				"faved",
+				"faved_posts"
+			],
+			[
+				"fave",
+				"faved_by"
+			],
+			[
+				"fa",
+				"faved_by"
+			],
+			[
+				"fav",
+				"faved_by"
+			],
+			[
+				"re",
+				"reposted"
+			],
+			[
+				"repo",
+				"repost"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"margin-o",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"find",
+				"find_by_sql"
+			],
+			[
+				"ori",
+				"original_post_id"
+			],
+			[
+				"usr",
+				"user_name"
+			],
+			[
+				"res",
+				"response_message"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"imag",
+				"image_data"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"set",
+				"set_post"
+			],
+			[
+				"whe",
+				"where"
+			],
+			[
+				"fin",
+				"find_by_sql"
+			],
+			[
+				"sub",
+				"submit_button"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"reque",
+				"requst_content"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "taivutin.rb",
+			"settings":
+			{
+				"buffer_size": 1341,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"rails",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML (Rails)"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jave",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"ba",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"m",
+				"Set Syntax: Markdown"
+			],
+			[
+				"perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"per",
+				"Set Syntax: Perl"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"apples",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"apple",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"aple",
+				"Set Syntax: AppleScript"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rainer/ruby/Debugger/Debugger-LowMem.rb",
+		"/Users/rainer/orchard/arti/lib/core_ext/hash.rb",
+		"/Users/rainer/orchard/arti/lib/core_ext/global.rb",
+		"/Users/rainer/orchard/arti/app/controllers/projects_controller.rb",
+		"/tmp/subl stdin igJpXp.txt",
+		"/Users/rainer/orchard/arti/app/helpers/api_helper.rb",
+		"/tmp/subl stdin CprlVl.txt",
+		"/Users/rainer/.gem/ruby/2.2.0/gems/radic-0.8.1/lib/radic/api.rb",
+		"/Users/rainer/orchard/arti/Gemfile",
+		"/Users/rainer/orchard/arti/app/views/tasks/create_tasks.html.erb",
+		"/Users/rainer/orchard/arti/app/assets/stylesheets/application.css",
+		"/tmp/subl stdin jRURqS.txt",
+		"/Users/rainer/orchard/arti/lib/core_ext/radar_creator_api.rb",
+		"/tmp/subl stdin Z9ZFNG.txt",
+		"/Users/rainer/orchard/arti/lib/core_ext/API.rb",
+		"/tmp/subl stdin OL2PnJ.txt",
+		"/tmp/subl stdin tkVLWq.txt",
+		"/Users/rainer/orchard/arti/config/routes.rb",
+		"/Users/rainer/orchard/arti/db/migrate/20160417064457_delete_problem_table.rb",
+		"/Users/rainer/orchard/arti/app/models/problem.rb",
+		"/Users/rainer/orchard/arti/app/models/project.rb",
+		"/Users/rainer/orchard/arti/db/migrate/20160416045708_adds_radar_id_column_to_problem.rb",
+		"/Users/rainer/orchard/arti/db/migrate/20160416050019_adds_project_item_id_column_to_problem.rb",
+		"/Users/rainer/.bash_profile",
+		"/Users/rainer/orchard/arti/config/application.rb",
+		"/Users/rainer/rails/rails_post_response.txt",
+		"/Users/rainer/orchard/arti/app/controllers/api_controller.rb",
+		"/Users/rainer/orchard/arti/app/views/projects/show.json.jbuilder",
+		"/Users/rainer/orchard/arti/app/views/layouts/application.html.erb",
+		"/Users/rainer/orchard/arti/lib/core_ext/string.rb",
+		"/Users/rainer/orchard/arti/app/models/component.rb",
+		"/Users/rainer/orchard/arti/db/migrate/20160408073140_add_task_i_dto_project.rb",
+		"/Users/rainer/orchard/arti/app/views/tasks/show.html.erb",
+		"/Users/rainer/orchard/arti/app/views/tasks/edit.html.erb",
+		"/Users/rainer/orchard/arti/db/migrate/20160401063954_add_columns_to_projects.rb",
+		"/Users/rainer/orchard/arti/app/views/tasks/new.html.erb",
+		"/Users/rainer/orchard/arti/tmp/scipts/task_iteration.rb",
+		"/Users/rainer/orchard/arti/config.ru",
+		"/Users/rainer/orchard/arti/db/migrate/20160325072801_add_default_to_due_date_to_tasks.rb",
+		"/Users/rainer/orchard/arti/app/controllers/tasks_controller.rb",
+		"/Users/rainer/sublime-projects/_form.html.erb",
+		"/Users/rainer/sublime-projects/create_tasks.html.erb",
+		"/Users/rainer/sublime-projects/index.html.erb",
+		"/Users/rainer/orchard/arti/app/views/tasks/index.json.jbuilder",
+		"/Users/rainer/rails/Post-It/lib/core_ext/global.rb",
+		"/Users/rainer/rails/Post-It/db/migrate/20160306081446_add_friend_count_post_count_follower_count_to_users.rb",
+		"/Users/rainer/rails/Post-It/app/controllers/users_controller.rb",
+		"/Users/rainer/rails/Post-It/app/views/posts/mentions.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/posts/about.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/posts/_coc.html.erb",
+		"/Users/rainer/rails/Post-It/README.md",
+		"/Users/rainer/rails/Post-It/app/views/posts/_header_search_form.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/posts/all_posts.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/posts/_zero_user_posts.html.erb",
+		"/Users/rainer/rails/Post-It/app/controllers/posts_controller.rb",
+		"/Users/rainer/rails/Post-It/app/views/posts/_roadmap.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/posts/search.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/posts/show.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/posts/thread.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/posts/starred.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/posts/exposetest.html",
+		"/Users/rainer/rails/Post-It/app/views/posts/exposetest_jquery.html",
+		"/Users/rainer/rails/Post-It/config/application.rb",
+		"/Users/rainer/rails/Post-It/Gemfile",
+		"/Users/rainer/rails/Post-It/db/migrate/20160225073800_delete_user_column_from_posts.rb",
+		"/Users/rainer/rails/Post-It/lib/core_ext/global_controller_extensions.rb",
+		"/Users/rainer/rails/Post-It/app/assets/javascripts/application.js",
+		"/Users/rainer/rails/Post-It/app/controllers/global_controller_extensions.rb",
+		"/Users/rainer/rails/Post-It/lib/core_ext/array.rb",
+		"/Users/rainer/rails/Post-It/app/views/posts/index.js.erb",
+		"/Users/rainer/rails/Post-It/app/assets/javascripts/pagination.js.coffee",
+		"/etc/hosts",
+		"/etc/host",
+		"/Users/rainer/rails/Post-It/app/views/posts/_header_nav_bar.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/posts/_header.html.erb",
+		"/Users/rainer/rails/Post-It/app/controllers/post_threads_controller.rb",
+		"/Users/rainer/rails/Post-It/db/migrate/20160209085915_add_thread_idto_posts.rb",
+		"/Users/rainer/rails/Post-It/db/migrate/20160208071822_chang_default_for_faved_posts_to_users.rb",
+		"/Users/rainer/rails/Post-It/db/migrate/20160209090130_change_thread_id_default_to_posts.rb",
+		"/Users/rainer/rails/Post-It/config/database.yml",
+		"/Users/rainer/rails/Post-It/db/migrate/20160208070104_change_default_for_faves_to_users.rb",
+		"/Users/rainer/rails/Post-It/db/migrate/20160208063859_rename_likes_and_starred_by_to_posts.rb",
+		"/Users/rainer/rails/Post-It/app/assets/javascripts/posts.js",
+		"/Users/rainer/rails/Post-It/app/models/post.rb",
+		"/Users/rainer/rails/Post-It/app/views/layouts/application.html.erb",
+		"/Users/rainer/rails/Post-It/app/assets/javascripts/pagination.js.coffee.js.erb",
+		"/Users/rainer/rails/Post-It/config/routes.rb",
+		"/Users/rainer/rails/Post-It/app/views/posts/_header_post_form.html.erb",
+		"/Users/rainer/rails/Post-It/app/assets/stylesheets/application.css",
+		"/Users/rainer/rails/Post-It/app/views/posts/_index_post_form.html.erb",
+		"/Users/rainer/rails/Post-It/db/migrate/20160205060148_change_reposted_by_default_to_empty_string_to_posts.rb",
+		"/Users/rainer/rails/Post-It/db/migrate/20160205054934_change_starred_by_default_to_empty_string_to_posts.rb",
+		"/Users/rainer/rails/Post-It/db/migrate/20160205035213_add_resposts_to_users.rb",
+		"/Users/rainer/rails/Post-It/db/migrate/20160203073712_add_original_post_id_to_posts.rb",
+		"/Users/rainer/rails/backup-fixer/inputs.txt",
+		"/Users/rainer/rails/Post-It/db/migrate/20160203072744_add_repost_and_plus_one_to_posts.rb",
+		"/Users/rainer/rails/Post-It/app/assets/javascripts/posts.coffee",
+		"/Users/rainer/rails/Post-It/app/views/posts/_zero_posts.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/users/follow.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/users/_form.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/users/index.html.erb",
+		"/Users/rainer/rails/Post-It/app/views/users/show.html.erb",
+		"/Users/rainer/rails/Post-It/public/javascripts/application.js",
+		"/Users/rainer/rails/Post-It/app/controllers/relations_controller.rb",
+		"/Users/rainer/rails/Post-It/db/migrate/20160127102626_create_relations.rb",
+		"/Users/rainer/rails/Post-It/config/initializers/session_store.rb",
+		"/Users/rainer/rails/Post-It/app/views/posts/_form.html.erb",
+		"/Users/rainer/rails/Post-It/Procfile",
+		"/Users/rainer/rails/Post-It/heroku-buildpack-ruby/Gemfile",
+		"/Users/rainer/Downloads/old_mathematics/old_mathematics_@2X.png",
+		"/Users/rainer/rails/twitter/app/views/posts/_form.html.erb",
+		"/Users/rainer/rails/twitter/app/views/layouts/application.html.erb",
+		"/Users/rainer/rails/twitter/db/migrate/20160123085000_add_user_hashtags_and_mentions_to_posts.rb",
+		"/Users/rainer/rails/twitter/Gemfile",
+		"/Users/rainer/rails/twitter/public/stylesheets/layout.css",
+		"/Users/rainer/ruby/postgresql.rb",
+		"/Users/rainer/orchard/captures_rack/web.rb",
+		"/Users/rainer/orchard/captures_rack/config.ru",
+		"/Users/rainer/orchard/captures_rack/.rspec",
+		"/Users/rainer/orchard/captures/db/migrate/20151228221552_create_captures.rb",
+		"/Users/rainer/Library/Preferences/com.apple.ace.radar.plist",
+		"/Users/rainer/ruby/serial lookup.rb",
+		"/Users/rainer/Desktop/gems_to_fix.txt",
+		"/Users/rainer/Desktop/18466.txt",
+		"/Users/rainer/openshift/pdca/Procfile",
+		"/Users/rainer/.gitconfig",
+		"/Users/rainer/ruby/Debugger-LowMem2.rb",
+		"/Users/rainer/Desktop/restored.crash"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<untitled>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"<<",
+			"radar_helper",
+			"Radar",
+			"@{1}session",
+			"[^@]@{1}session",
+			", ",
+			"getStatus",
+			"POC",
+			"_task_type.downcase.gsub(/\\s+/, \"_\")",
+			"/\\s/",
+			"lorem",
+			"env",
+			"request",
+			"\n",
+			", ",
+			",",
+			"Users",
+			" \n",
+			"set_user",
+			"?",
+			"follow",
+			"post-it",
+			"%22",
+			":partial => ",
+			"show",
+			"post.user\\b",
+			"post.user",
+			"\\buser\\b",
+			"\\b!@user\\b",
+			"\\buser\\b",
+			":user\\b",
+			"search",
+			"session[:post_count][__method__]",
+			",",
+			":",
+			"\", \"",
+			"reply_post\\b",
+			"text-ali",
+			";\">",
+			"shadow",
+			"15px",
+			";\n",
+			"1",
+			"project_",
+			">\n",
+			"    ",
+			"@db_url",
+			"DB_connect",
+			"pdca",
+			"map",
+			"radar2",
+			"read_values",
+			"defaults",
+			"^.*<Error>: ",
+			"^.*\\|",
+			"p \"LOG: trying to assign #{@radar.attributes[\"id\"]}\" if VERBOSE_MODE",
+			"^.*gem",
+			"Okemo",
+			"SUOkemoTaos",
+			"assets",
+			"@sn",
+			" N",
+			"Appl.*, ",
+			"Gold,",
+			" Cap",
+			" with",
+			"(42mm)",
+			"(38mm)",
+			">",
+			"\"",
+			":",
+			"\\\n",
+			"db_path",
+			" ",
+			"<|>",
+			" ",
+			"File.",
+			"&",
+			" | ",
+			"open3",
+			"Joe_Mazzanti",
+			"DATA",
+			", ",
+			"<(\\/)?\\w{6}>",
+			"<.*>\\b?",
+			"\\'",
+			"DRI\\'s",
+			"'",
+			"speedTracerResponse",
+			"puts",
+			"application",
+			"app_name",
+			"\\$crashLog\\b",
+			"_showCrashpoint",
+			",",
+			"aeilrufthadsahiufads  faeuihfduifhdfuidhsadisuhf iuhuifhdsmmmm",
+			", ",
+			"<[^[ab].*?>",
+			"<[^ab].*?>",
+			"</center>",
+			"RTAPercentageRounded",
+			"font",
+			"ƒ",
+			"<[^ab].*?>",
+			"<(font|center).*?>",
+			"-result",
+			"test-result-display ",
+			"<(a){0}.*?>",
+			"<[a]{0}.*?>",
+			"<.*?>",
+			",",
+			"ticketLink",
+			"$tabbedRow",
+			"ios",
+			"$H",
+			"$c",
+			"logFile",
+			"Airplane",
+			"|",
+			"CBDE6D2BE8923234348F6D95BF49C0E67111332B",
+			"8D5DFBFDFAF9A67116B338242F2AD9554946B6BA",
+			"$extension",
+			"$sPath",
+			"$sName",
+			"$Name",
+			"if (join(\"\",@_sana)",
+			"~~ @_vokaali",
+			"~~ @_konsonantti"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"radar_abstractor",
+			"@@session",
+			"\n@@session",
+			"\n",
+			"_task_type",
+			"/\\s+/",
+			", \n",
+			" \n",
+			"post it",
+			"\"",
+			"partial: ",
+			"post.user_name",
+			"session[:post_count][session[:current_view]]",
+			"\",",
+			"\"",
+			", :",
+			" :",
+			"reply_post_id",
+			"post_it_",
+			"post_it",
+			"	",
+			"",
+			"Log \"Trying to assign #{@radar.attributes[\"id\"]}\"",
+			"gem",
+			"Boulder",
+			"	N",
+			"",
+			"Gold -",
+			"",
+			",",
+			"N28",
+			"N27",
+			"",
+			"=>",
+			"",
+			"	",
+			"",
+			"	",
+			"|",
+			"Cody_Aepli",
+			", \nCody_Aepli",
+			", \n",
+			"",
+			"DRIs",
+			"\\'",
+			"radarQuery",
+			"$symbolicatedCrashlog",
+			"\n$symbolicatedCrashlog",
+			"\n",
+			",	",
+			"",
+			"\n",
+			"supportContent",
+			"$mdRow",
+			"$matchCounter",
+			"$counter",
+			"pathToFile",
+			": ",
+			"$logFileExtension",
+			"$logDirectoryPath",
+			"$logFileName",
+			"if ($__sana__)",
+			"=~ m/[$VSSA]/",
+			"=~ m/[$KSSA]/",
+			"",
+			"</div>\n<div class=\"post\">",
+			"</div><div class=\"post\">",
+			"\"",
+			"panics",
+			"Panics",
+			"totalPanicCount",
+			"$",
+			"artiDB",
+			"artiPlist",
+			"assets/SUSochi",
+			"https://basejumper.apple.com/assets/",
+			"file",
+			"$_wordToFuzz",
+			"SNs",
+			"\nSNs",
+			"\n",
+			"",
+			"&",
+			"",
+			"	",
+			"$c += 1;",
+			"_\\n\");",
+			"push (@parsedLog, \"FOUND",
+			"SOURCEFILE",
+			"$c = $c+1;",
+			"$c=$c",
+			"$c",
+			"counter",
+			"$. $_",
+			": \\n/g",
+			"/^/",
+			"MODEM",
+			"JAILBREAK SW",
+			"",
+			"/g",
+			"{p;n;}",
+			" /{p;n;}",
+			" /{p;n}",
+			"",
+			"SOFTWARE ON LINE =",
+			"",
+			"\n",
+			": \\\\",
+			": \\",
+			"\\n\\r",
+			"",
+			"\n",
+			" ",
+			"\n",
+			"",
+			"	",
+			"",
+			"	1",
+			"	",
+			"\n",
+			"    ",
+			"'",
+			"]",
+			"[",
+			"\", \"",
+			">",
+			"<",
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "taivutin.rb",
+					"settings":
+					{
+						"buffer_size": 1341,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 135.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 336.0,
+	"status_bar_visible": true
+}
